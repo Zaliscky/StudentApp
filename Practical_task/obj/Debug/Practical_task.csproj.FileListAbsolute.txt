@@ -1,0 +1,6 @@
+c:\users\иван\documents\visual studio 2013\Projects\Practical_task\Practical_task\bin\Debug\Practical_task.exe.config
+c:\users\иван\documents\visual studio 2013\Projects\Practical_task\Practical_task\bin\Debug\Practical_task.exe
+c:\users\иван\documents\visual studio 2013\Projects\Practical_task\Practical_task\bin\Debug\Practical_task.pdb
+c:\users\иван\documents\visual studio 2013\Projects\Practical_task\Practical_task\obj\Debug\Practical_task.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2013\Projects\Practical_task\Practical_task\obj\Debug\Practical_task.exe
+c:\users\иван\documents\visual studio 2013\Projects\Practical_task\Practical_task\obj\Debug\Practical_task.pdb
